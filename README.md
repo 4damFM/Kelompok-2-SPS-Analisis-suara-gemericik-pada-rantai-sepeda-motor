@@ -22,10 +22,29 @@ git clone https://github.com/username/repository-name.git
 ```
 
 ## 2.Instal dependencies
+```json
 cd repository-name
 pip install -r requirements.txt
+```
 
 ## 3.Menjalankan Proyek
+```json
 python main.py
+```
 
-#
+# Usage
+## 1.Jalankan PyQt
+```json
+python main.py
+```
+
+## 2.Mulai Merekam Suara
+1. jalankan program yang diberikan
+2. lalu mulai merekam dengan menekan "Start Recording"
+3. Jika sudah selesai merekam tekan "Stop Recording"
+
+## 3.Upload ke Edge Impulse
+jika sudah selesai merekam tekan "Upload to Edge Impulse" untuk mengupload ke Edge Impulse
+
+## 4.Analisis pada Edge Impulse
+Jika sudah terupload dapat dilakukan analisis di Edge Impulse dengan File beberapa suara yang terupload
