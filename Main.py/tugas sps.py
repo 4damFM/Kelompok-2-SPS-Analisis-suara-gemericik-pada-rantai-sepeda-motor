@@ -33,7 +33,7 @@ def hitung_desibel(tekanan_suara, tekanan_referensi=20e-6):
 
 
 class EdgeImpulseUploader:
-    def __init__(self, api_key="ei_3a5eb7348a8c2dcfcd9930491dda8417896c31b46d5e7b451673b798d25db075",
+    def __init__(self, api_key="ei_3xxxx",
                  api_url="https://ingestion.edgeimpulse.com/api/training/files"):
         self.api_key = api_key
         self.api_url = api_url
@@ -138,7 +138,7 @@ class Ui_MainWindow(object):
         self.is_recording = False
         self.audio_data = []
         self.audio_file_path = "gear2.wav"
-        self.uploader = EdgeImpulseUploader(api_key="ei_3a5eb7348a8c2dcfcd9930491dda8417896c31b46d5e7b451673b798d25db075")
+        self.uploader = EdgeImpulseUploader(api_key="ei_xxxxxx")
 
         # Timer for real-time updates
         self.timer = QtCore.QTimer()
