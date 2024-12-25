@@ -5,10 +5,10 @@ Kebisingan rantai memengaruhi pengendara dan lingkungan sekitar. Stres dan gangg
 Baik produsen maupun pengguna sepeda motor harus memperhatikan aspek perawatan dan desain rantai sepeda motor jika mereka ingin meningkatkan kualitas berkendara dan mengurangi dampak negatif kebisingan. Perbaikan dan teknologi terbaru dapat mengurangi suara gemericik rantai, meningkatkan keselamatan dan kenyamanan berkendara.
 
 # Authors
-Yanuar Rahmansyah 2042231057
-Adam Fareliansah Malandi 2042231049
-Muhammad Jidan Baraja 2042231009
-Ahmad Radhy (Supervisor)
+1. Yanuar Rahmansyah 2042231057
+2. Adam Fareliansah Malandi 2042231049
+3. Muhammad Jidan Baraja 2042231009
+4. Ahmad Radhy (Supervisor)
 
 # Requirement
 Python 3.8+
