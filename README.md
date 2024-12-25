@@ -11,13 +11,15 @@ Baik produsen maupun pengguna sepeda motor harus memperhatikan aspek perawatan d
 4. Ahmad Radhy (Supervisor)
 
 # Requirement
-Python 3.8+
-PyQt
-Edge Impulse CLI
+1. Python 3.8+
+2. PyQt
+3. Edge Impulse CLI
 
 # Instalation
 ## 1.Clone repositori
+```json
 git clone https://github.com/username/repository-name.git
+```
 
 ## 2.Instal dependencies
 cd repository-name
