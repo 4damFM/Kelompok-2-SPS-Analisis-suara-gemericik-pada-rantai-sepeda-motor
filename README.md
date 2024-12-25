@@ -1,3 +1,5 @@
+penjelasan kurang detail
+
 ![Screenshot 2024-12-24 190610](https://github.com/user-attachments/assets/fa76bb08-7a49-4b96-9ebf-48a30295f4a2)
 
 # Analisis-suara-gemericik-pada-rantai-sepeda-motor
