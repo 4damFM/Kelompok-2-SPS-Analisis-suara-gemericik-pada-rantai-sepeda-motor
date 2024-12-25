@@ -16,14 +16,14 @@ PyQt
 Edge Impulse CLI
 
 # Instalation
-# 1.Clone repositori
+## 1.Clone repositori
 git clone https://github.com/username/repository-name.git
 
-# 2.Instal dependencies
+## 2.Instal dependencies
 cd repository-name
 pip install -r requirements.txt
 
-# 3.Menjalankan Proyek
+## 3.Menjalankan Proyek
 python main.py
 
 #
